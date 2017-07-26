@@ -34,7 +34,7 @@ namespace capturedapi
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/captured.json", "Captured Api V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Captured Api V1");
             });
         }
     }
