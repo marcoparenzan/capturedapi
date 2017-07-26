@@ -1,0 +1,13 @@
+D:\capturedapi\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+D:\capturedapi\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+D:\capturedapi\bin\Debug\netcoreapp2.0\capturedapi.deps.json
+D:\capturedapi\bin\Debug\netcoreapp2.0\capturedapi.runtimeconfig.json
+D:\capturedapi\bin\Debug\netcoreapp2.0\capturedapi.runtimeconfig.dev.json
+D:\capturedapi\bin\Debug\netcoreapp2.0\capturedapi.dll
+D:\capturedapi\bin\Debug\netcoreapp2.0\capturedapi.pdb
+D:\capturedapi\obj\Debug\netcoreapp2.0\capturedapi.csproj.CoreCompileInputs.cache
+D:\capturedapi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\capturedapi\obj\Debug\netcoreapp2.0\capturedapi.AssemblyInfoInputs.cache
+D:\capturedapi\obj\Debug\netcoreapp2.0\capturedapi.AssemblyInfo.cs
+D:\capturedapi\obj\Debug\netcoreapp2.0\capturedapi.dll
+D:\capturedapi\obj\Debug\netcoreapp2.0\capturedapi.pdb
